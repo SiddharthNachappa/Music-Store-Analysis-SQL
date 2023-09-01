@@ -1,4 +1,4 @@
-# SQL_Project_Music_Store_Analysis
+# SQL_Project_Music_Store_Analysis by SIDDHARTH NACHAPPA
 SQL project to analyze online music store data
 
 This project analyzes the music playlist database. 
